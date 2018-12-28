@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mecl", "mecl\mecl.csproj", "{24F0FBA5-4F1A-41AA-AD16-AE8956326214}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meclut", "meclut\meclut.csproj", "{14E31E66-99C1-4052-AF70-9741104AC43D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{24F0FBA5-4F1A-41AA-AD16-AE8956326214}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24F0FBA5-4F1A-41AA-AD16-AE8956326214}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24F0FBA5-4F1A-41AA-AD16-AE8956326214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14E31E66-99C1-4052-AF70-9741104AC43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E31E66-99C1-4052-AF70-9741104AC43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E31E66-99C1-4052-AF70-9741104AC43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E31E66-99C1-4052-AF70-9741104AC43D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

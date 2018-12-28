@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace mecl
 {
-    public class Class1
+    public static class Math
     {
+        public static int Factorial(int input)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
